@@ -94,7 +94,6 @@ student["рік навчання"] = 2.10
 print("\nОновлений словник з інформацією про студента:")
 for key, value in student.items():print(f"{key}: {value}")
 
-
 def divide_numbers():
     try:
         num1 = float(input("Введіть перше число: "))
@@ -110,7 +109,7 @@ def divide_numbers():
 divide_numbers()
 
 
-
+print('Finish');
 
 
 
