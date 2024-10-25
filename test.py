@@ -1,6 +1,6 @@
-i =1 
-print(i)
-int=10
+import numpy as nppython
+
+int=101
 float=3.14
 str="Hello Valera"
 bool=True
@@ -29,7 +29,7 @@ print("^")
 a=4
 b=2
 c=pow(a,b)
-print(result)
+print(c)
 round(2)
 abs(2>3)
 modul=2%2
@@ -44,5 +44,7 @@ name = "Валерій"
 fge = 43
 gretinng = "Привіт моє ім'я" + name + "."
 format("ім'я")
-
-
+print("Валерій")
+print("43")
+print("name")
+print("ім'я")
